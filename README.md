@@ -10,7 +10,7 @@
 
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=21RachitShukla&label=Views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=21RachitShukla&label=Views&color=0e75b6&style=flat" alt="21RachitShukla" /> </p>
 
 <div align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="30" height="30"/>
